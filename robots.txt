@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://angka-mimpi.github.io/angka-5/sitemap.xml
